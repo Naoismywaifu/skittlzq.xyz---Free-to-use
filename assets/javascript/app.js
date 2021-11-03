@@ -11,7 +11,7 @@ var _app = function () {
     this.brandDescription = [
         "Skittlzq#6666", 
         "Developer",
-        "|C++|Python|",
+        "|C++|Python",
         "Rainbow 6 Siege player", 
         "$ skittlz", 
     ];
