@@ -16,7 +16,7 @@ function loaded(){
 
 var x = 0;
 
-var titleText = [ "$ skt.rip", "$ skt.ri", "$ skt.r", "$ skt.", "$ skt", "$ sk", "$ s", "$ sk", "$ skt", "$ skt.", "$ skt.r", "$ skt.ri", "$ skt.rip" ];
+var titleText = [ "$ skt.xyz", "$ skt.xy", "$ skt.y", "$ skt.", "$ skt", "$ sk", "$ s", "$ sk", "$ skt", "$ skt.", "$ skt.x", "$ skt.xy", "$ skt.xyz" ];
 
 function loop(){
 
