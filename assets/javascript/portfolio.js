@@ -32,7 +32,7 @@
             
 			{
                 name: '𝐑𝟔𝐓𝐀𝐁',
-                link: 'https://r6.tracker.network/profile/pc/FTT.'
+                link: 'https://tabstats.com/siege/player/ftt/1455b93b-d241-49ed-9c66-3e56246331c5'
             },
 
         ];
