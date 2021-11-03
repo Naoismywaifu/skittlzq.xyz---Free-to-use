@@ -15,23 +15,23 @@
 
 
 		    {
-                name: 'Skittlzq',
+                name: '𝐒𝐤𝐢𝐭𝐭𝐥𝐳',
                 link: 'https://discord.com/users/833152252302589952'
             },
 
             {
-                name: 'Twitter',
+                name: '𝐓𝐰𝐢𝐭𝐭𝐞𝐫',
                 link: 'https://twitter.com/R6FTT'
             },
             
             
             {
-                name: 'Discord Server',
+                name: '𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐒𝐞𝐫𝐯𝐞𝐫',
                 link: 'https://discord.gg/D3VvT58MPr'
             },
             
 			{
-                name: 'R6TAB',
+                name: '𝐑𝟔𝐓𝐀𝐁',
                 link: 'https://r6.tracker.network/profile/pc/FTT.'
             },
 
@@ -164,14 +164,14 @@
 
                 var usernames = ["user", "dude"];
 
-                writeLine(["Access Granted <span style='font-size: 14px; color: #0f0;'>[success]</span>", "Processing..."], 30, 501, function () {
+                writeLine(["Access Granted <span style='font-size: 14px; color: #00ff1f;'>[success]</span>", "Processing..."], 30, 501, function () {
 
                     if (app.skippedIntro)
                         return;
 
                     clearCursor();
 
-                    writeLine(["<i style='color: #ef1de7 '>made by skittlz </i>"], 30, 500, function () {
+                    writeLine(["<span style='font-size:15px;'><span style='color:#00FFE5;'>w</span><span style='color:#09F6E4;'>e</span><span style='color:#12EEE3;'>b</span><span style='color:#1BE5E2;'>s</span><span style='color:#24DDE2;'>i</span><span style='color:#2DD5E1;'>t</span><span style='color:#36CCE0;'>e</span> <span style='color:#48BBDF;'>d</span><span style='color:#51B3DE;'>e</span><span style='color:#5BABDD;'>v</span><span style='color:#64A2DC;'>e</span><span style='color:#6D9ADC;'>l</span><span style='color:#7691DB;'>o</span><span style='color:#7F89DA;'>p</span><span style='color:#8881D9;'>e</span><span style='color:#9178D9;'>d</span> <span style='color:#A367D7;'>b</span><span style='color:#AD5FD6;'>y</span> <span style='color:#BF4ED5;'>s</span><span style='color:#C846D4;'>k</span><span style='color:#D13DD3;'>i</span><span style='color:#DA35D3;'>t</span><span style='color:#E32DD2;'>t</span><span style='color:#EC24D1;'>l</span><span style='color:#F51CD0;'>z</span></span>"], 30, 500, function () {
                        
 
                         timeouts.push(setTimeout(function () {
