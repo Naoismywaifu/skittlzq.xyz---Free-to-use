@@ -14,9 +14,8 @@ function loaded(){
 
 }
 
-var x = 0;
-
-var titleText = [ "$ skt.xyz", "$ skt.xy", "$ skt.y", "$ skt.", "$ skt", "$ sk", "$ s", "$ sk", "$ skt", "$ skt.", "$ skt.x", "$ skt.xy", "$ skt.xyz" ];
+var x = 0;var titleText = [ "$ sktittlz.xyz", "$ skittlzt.xy", "$ sktittlz.y", "$ sktittlz.", "$ sktittlz", "$ skittl", "$ skitt", "$ skit", "$ ski", "$ sk", "$ s", "$ sk", "$ ski" 
+"$ skit", "$ skitt", "$ skittl" , "$ skittlz", "$ skittlz." , "$ skittlz.x" "$ skittlz.xy", "$ skittlz.xyz" ];
 
 function loop(){
 
